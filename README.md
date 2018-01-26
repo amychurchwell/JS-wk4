@@ -3,6 +3,20 @@
 
 A project of reflection and study of concepts learned.
 
+* Solidify basic Angular knowledge. (Components, Services, Pipes).
+* Dive into the relationship between _Models and Observables._
+* Experiment with Firebase more.
+
+## Personal Goals
+
+### Angular 2 Basics.
+
+1. Following along with Traversy Media Angular 2 Playlist.
+https://www.youtube.com/playlist?list=PLillGF-RfqbbZnAJlEzttBrbkAO27U_hd
+
+Angular 2 & Firebase App.
+Angular 2 Flow of Data Visualization. 
+
 ## Objectives
 
 - [ ] Student plans and executes day of continued study and self evaluation.
