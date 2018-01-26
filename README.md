@@ -15,10 +15,14 @@ Angular 2 Flow of Data Visualization.
 
 ### Angular 2 and Firebase.
 
+Focusing on my own development and education, I felt the best use of my time would be to carefully and intentionally follow a tutorial utilizing all current concepts.
+
 1. Following along with Traversy Media Angular 2  & Firebase Playlist.
 
 * Angular 2 / Angular CLI
+
 * AngularFire2
+! Tutorial utilizes AngularFire2, was create severe errors for my project so I decided to switch direction.
 * Firebase Setup
 * Database
 * Google Authentication
@@ -63,7 +67,7 @@ https://trello.com/b/FSo1fMT1/ready-set-rock-your-job-search
 
 ## Tech Community
 
-![WIT volunteer instructions](/assets/images/WIT_Volunteer.png?raw=true)
+![WIT volunteer instructions](app/assets/images/WIT_Volunteer.png?raw=true)
 
 ## Technology Used
 
