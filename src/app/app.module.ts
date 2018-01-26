@@ -1,6 +1,6 @@
 import { BrowserModule } from '@angular/platform-browser';
 import { NgModule } from '@angular/core';
-import { FormsModule } from '@angular/core';
+import { FormsModule } from '@angular/forms';
 import { HttpModule } from '@angular/http';
 import { RouterModule, Routes } from '@angular/router';
 
@@ -15,7 +15,7 @@ import { EditListingComponent } from './edit-listing/edit-listing.component';
 
 const appRoutes: Routes = [
   {path:'', component: HomeComponent},
-  {path: 'listings', component: ListingsComponent}
+  {path:'listings', component: ListingsComponent}
 ]
 
 @NgModule({
