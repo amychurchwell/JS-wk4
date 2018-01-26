@@ -11,11 +11,21 @@ A project of reflection and study of concepts learned.
 
 ### Angular 2 Basics.
 
-1. Following along with Traversy Media Angular 2 Playlist.
-https://www.youtube.com/playlist?list=PLillGF-RfqbbZnAJlEzttBrbkAO27U_hd
+Angular 2 Flow of Data Visualization.
 
-Angular 2 & Firebase App.
-Angular 2 Flow of Data Visualization. 
+### Angular 2 and Firebase.
+
+1. Following along with Traversy Media Angular 2  & Firebase Playlist.
+
+* Angular 2 / Angular CLI
+* AngularFire2
+* Firebase Setup
+* Database
+* Google Authentication
+* Image Uploading / Firebase Storage
+* Angular Flash Message Module
+* Form Validation Service
+* Compile & Deploy (Digital Ocean?)
 
 ## Objectives
 
